@@ -1,0 +1,18 @@
+entries:
+  - title: About me
+    url: /about/
+    entries:
+      - title: bitbucket.org/creative630
+        url: https://bitbucket.org/creative630/
+      - title: github/ryanmazzolini
+        url: http://github.com/ryanmazzolini
+      - title: Games! creative630.itch.io
+        url: https://creative630.itch.io/
+      - title: twitter/RyanMazzolini
+        url: https://twitter.com/RyanMazzolini
+
+  - title: posts
+    post_list: true
+
+  - title: rss
+    url: feed.xml
