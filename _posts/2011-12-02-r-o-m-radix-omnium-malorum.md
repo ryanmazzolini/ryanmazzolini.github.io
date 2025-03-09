@@ -3,7 +3,6 @@ id: 9
 title: R.O.M (Radix Omnium Malorum)
 date: 2011-12-02T19:17:46+00:00
 author: ryan
-layout: post
 guid: http://rmazzolini.com/?p=9
 permalink: /r-o-m-radix-omnium-malorum/
 categories:

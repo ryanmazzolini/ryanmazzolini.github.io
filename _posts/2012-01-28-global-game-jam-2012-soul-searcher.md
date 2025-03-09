@@ -3,7 +3,6 @@ id: 16
 title: 'Global Game Jam 2012 &#8211; Soul Searcher'
 date: 2012-01-28T20:00:57+00:00
 author: ryan
-layout: post
 guid: http://rmazzolini.com/?p=14
 permalink: /global-game-jam-2012-soul-searcher/
 image: /wp-content/uploads/2012/01/ScreenShot.jpg

@@ -3,7 +3,6 @@ id: 185
 title: Pizza Party
 date: 2017-03-01T01:50:53+00:00
 author: ryan
-layout: post
 guid: http://www.rmazzolini.com/?p=185
 permalink: /pizza-party/
 categories:

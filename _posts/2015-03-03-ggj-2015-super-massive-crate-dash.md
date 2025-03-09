@@ -3,7 +3,6 @@ id: 127
 title: '[GGJ 2015] Super Massive Crate Dash'
 date: 2015-03-03T13:54:22+00:00
 author: ryan
-layout: post
 guid: http://www.rmazzolini.com/?p=127
 permalink: /ggj-2015-super-massive-crate-dash/
 image: /wp-content/uploads/2015/03/screenshot.png

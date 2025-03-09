@@ -3,7 +3,6 @@ id: 42
 title: 'MakeGamesSA Sound Challenge #2'
 date: 2013-12-05T08:30:07+00:00
 author: ryan
-layout: post
 guid: http://rmazzolini.com/?p=42
 permalink: /makegamessa-sound-challenge-2/
 categories:

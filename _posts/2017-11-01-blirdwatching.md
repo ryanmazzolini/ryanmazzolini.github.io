@@ -3,7 +3,6 @@ id: 183
 title: BlirdWatching
 date: 2017-11-01T01:44:51+00:00
 author: ryan
-layout: post
 guid: http://www.rmazzolini.com/?p=183
 permalink: /blirdwatching/
 categories:
@@ -17,10 +16,4 @@ We managed to win the award for technical excellence and got an honourable menti
 
 Check it out! <https://creative630.itch.io/blirdwatching>
 
-<img loading="lazy" class="size-large" src="https://i0.wp.com/img.itch.zone/aW1hZ2UvMTczMDA5LzgwNTgxMy5wbmc=/original/OFpNJz.png?resize=620%2C349&#038;ssl=1" alt="BlirdWatching Title" width="620" height="349" data-recalc-dims="1" /> 
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<img loading="lazy" class="size-large" src="https://i0.wp.com/img.itch.zone/aW1hZ2UvMTczMDA5LzgwNTgxMy5wbmc=/original/OFpNJz.png?resize=620%2C349&#038;ssl=1" alt="BlirdWatching Title" width="620" height="349" data-recalc-dims="1" />

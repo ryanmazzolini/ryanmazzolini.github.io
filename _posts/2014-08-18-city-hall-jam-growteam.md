@@ -3,7 +3,6 @@ id: 46
 title: '[City Hall Jam] GrowTeam!'
 date: 2014-08-18T14:03:44+00:00
 author: ryan
-layout: post
 guid: http://www.rmazzolini.com/?p=46
 permalink: /city-hall-jam-growteam/
 categories:

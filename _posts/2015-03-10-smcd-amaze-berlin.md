@@ -3,7 +3,6 @@ id: 137
 title: 'Super Massive Crate Dash &#8211; Amaze Berlin'
 date: 2015-03-10T14:18:19+00:00
 author: ryan
-layout: post
 guid: http://www.rmazzolini.com/?p=137
 permalink: /smcd-amaze-berlin/
 image: /wp-content/uploads/2015/03/SMCD_CoverImage_bunnies_800x600.png

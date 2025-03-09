@@ -3,7 +3,6 @@ id: 36
 title: Escape Velocity
 date: 2013-04-05T08:09:15+00:00
 author: ryan
-layout: post
 guid: http://rmazzolini.com/?p=36
 permalink: /escape-velocity/
 categories:

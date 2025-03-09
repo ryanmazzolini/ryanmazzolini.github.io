@@ -3,7 +3,6 @@ id: 28
 title: 'FreeLives &#8211; Ore Chasm'
 date: 2012-01-05T07:00:04+00:00
 author: ryan
-layout: post
 guid: http://rmazzolini.com/?p=28
 permalink: /freelives-ore-chasm/
 categories:

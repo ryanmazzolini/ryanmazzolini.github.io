@@ -3,7 +3,6 @@ id: 44
 title: '[Ludum Dare #30] Star-crossed lovers'
 date: 2014-08-26T14:03:06+00:00
 author: ryan
-layout: post
 guid: http://www.rmazzolini.com/?p=44
 permalink: /ludum-dare-30-star-crossed-lovers/
 image: /wp-content/uploads/2014/08/babies.jpg

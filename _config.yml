@@ -1,38 +1,83 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ryan Mazzolini
-email: your-email@example.com
-name: Ryan Mazzolini
-description: 'Ryan Mazzolini portfolio and blog'
+title: 𓄃 Mazzfolio # The title of the blog
+
+author:
+  name: "Ryan Mazzolini"
+  avatar: "assets/images/avatar.jpg"
+  bio: "Automoton turning coffee and carbs into... something."
+  location: United Kingdom
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ryan-mazzolini-6b586267/"
+    - label: "itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://creative630.itch.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ryanmazzolini"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ryanmazzolini"
+
+# email: your-email@domain.com # your email shown in the footer
+url: https://ryanmazzolini.github.io/ # this is your site's root address.
+# description: > # this means to ignore newlines until "show_excerpts:"
+  # A clean and minimalist theme for Jekyll.
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://www.rmazzolini.com # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ryanmazzolini
-github_username: ryanmazzolini
 
 permalink: /:slug.html
 favicon: "favicon.jpg" # name+extension of favicon (which must be put on the root folder)
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      # read_time: true
+      # comments: true
+      # share: true
+      related: true
+      show_date: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+minimal_mistakes_skin: "neon"
+breadcrumbs: true  # disabled by default
+date_format: "%Y-%m-%d"
+enable_copy_code_button: true
+search: true
+show_excerpts: true # set to true to show excerpts on the homepage
+
 # Build settings
-remote_theme: riggraz/no-style-please
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+- jekyll-remote-theme
+- jekyll-feed
+- jekyll-seo-tag
 
 sass:
   style: :compressed
 
-theme_config:
-  appearance: "dark"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+#theme_config:
+#  appearance: "dark"
+#  back_home_text: ".." # customize text for homepage link in post layout
+#  date_format: "%Y-%m-%d" # customize how date is formatted
+#  show_description: false # show blog description in home page
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -3,7 +3,6 @@ id: 146
 title: Experiences with OpenVDB
 date: 2015-03-11T10:07:30+00:00
 author: ryan
-layout: post
 guid: http://www.rmazzolini.com/?p=146
 permalink: /experiences-with-openvdb/
 image: /wp-content/uploads/2015/03/voxels.png
